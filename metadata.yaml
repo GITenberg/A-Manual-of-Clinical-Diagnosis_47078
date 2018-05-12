@@ -1,10 +1,16 @@
 _repo: A-Manual-of-Clinical-Diagnosis_47078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Todd, James Campbell
     gutenberg_agent_id: '44123'
     url: http://www.gutenberg.org/2009/agents/44123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47078#A-Manual-of-Clinical-Diagnosis
 gutenberg_issued: '2014-10-08'
 gutenberg_type: Text
 identifiers:
